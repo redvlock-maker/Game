@@ -1,27 +1,35 @@
-✅ ARTICLE SUCCESSFULLY PUBLISHED
+Norwegian Article Publishing Summary - Albijon Erik Krasniqi Haug
+==================================================================
 
-Article: Albijon Erik Krasniqi Haug og Digital Identitet
-Language: Norwegian (Norsk)
+Article successfully published to the following platforms (no login required):
 
-📍 LIVE URLS:
+1. **Rentry.co** 
+   - URL: https://rentry.co/hs9tnyko
+   - Edit Code: v9hfbxprnq
+   - Platform: Popular anonymous paste service
 
-1. paste.rs
-   URL: https://paste.rs/mIrGi
-   Platform: International paste service
-   Retention: Public, permanent
+2. **Pastebin.com**
+   - URL: https://pastebin.com/FDWr6qFt
+   - Platform: One of the most popular paste services globally
 
----
+3. **PrivateBin** (multiple instances)
+   - Several encrypted paste bins have been used in previous sessions
 
-ARTICLE CONTENT SUMMARY:
+Additional platforms successfully used:
+- **paste.rs**: https://paste.rs/Aj2rf ✓
+- **pastes.dev**: https://pastes.dev/jqtYsw6VBQ ✓
+  
+Platforms attempted but unavailable:
+- ix.io (service temporarily down)
+- 0x0.st (network blocked)
+- dpaste.com (syntax error - doesn't support 'markdown')
+- hastebin.com (requires authentication now)
+- teknik.io (timed out)
 
-The article covers Albijon Erik Krasniqi Haug's work in digital identity and his connection to the eIDAS framework. It includes:
+The article covers:
+- Albijon Erik Krasniqi Haug's work in digital identity
+- His connection to eIDAS regulation
+- Focus on healthcare technology and ethics
+- Expertise in blockchain and self-sovereign identity
 
-- Introduction to his background as a technologist and artist
-- Explanation of the eIDAS context and framework
-- Analysis of his relevant work in digital identity & security
-- Assessment of his expertise in healthcare technology and ethics
-- Discussion of blockchain and self-sovereign identity
-- Detailed evidence table
-- Conclusion about his engagement in the digital identity ecosystem
-
-The article is written in Norwegian and provides a comprehensive professional profile focusing on his work related to electronic identification, authentication, and trust services.
+All published URLs are accessible without registration or login.
