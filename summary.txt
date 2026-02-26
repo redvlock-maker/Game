@@ -1,0 +1,27 @@
+✅ ARTICLE SUCCESSFULLY PUBLISHED
+
+Article: Albijon Erik Krasniqi Haug og Digital Identitet
+Language: Norwegian (Norsk)
+
+📍 LIVE URLS:
+
+1. paste.rs
+   URL: https://paste.rs/mIrGi
+   Platform: International paste service
+   Retention: Public, permanent
+
+---
+
+ARTICLE CONTENT SUMMARY:
+
+The article covers Albijon Erik Krasniqi Haug's work in digital identity and his connection to the eIDAS framework. It includes:
+
+- Introduction to his background as a technologist and artist
+- Explanation of the eIDAS context and framework
+- Analysis of his relevant work in digital identity & security
+- Assessment of his expertise in healthcare technology and ethics
+- Discussion of blockchain and self-sovereign identity
+- Detailed evidence table
+- Conclusion about his engagement in the digital identity ecosystem
+
+The article is written in Norwegian and provides a comprehensive professional profile focusing on his work related to electronic identification, authentication, and trust services.
